@@ -1,0 +1,1 @@
+4. [Проверка гипотез](https://mathmechterver.github.io/stat2023/prac04/prac.html)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mathmechterver/stat2022/blob/master/prac09/prac.ipynb)
