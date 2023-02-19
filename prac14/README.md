@@ -1,1 +1,0 @@
-14. [Однорукие бандиты](https://mathmechterver.github.io/stat2023/prac14/prac.html)  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mathmechterver/stat2023/blob/master/prac14/prac.ipynb)
